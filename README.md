@@ -1,2 +1,2 @@
 # Bankruptcy
-Authhor- Mukesh Samantaray
+Author- Mukesh Samantaray
